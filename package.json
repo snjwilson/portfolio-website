@@ -1,0 +1,14 @@
+{
+  "name": "snj-portfolio",
+  "version": "1.0.0",
+  "description": "Sanjay's Portfolio Website",
+  "main": "index.js",
+  "author": "SNJ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^4.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
